@@ -1,0 +1,8 @@
+1. Review codebase hiện tại
+2. Map Workspace vào architecture hiện tại
+3. Chốt Workspace Implementation Spec
+4. Chốt DB/schema impact
+5. Chốt interfaces/core components
+6. Sau đó mới tạo implementation plan
+7. Build Core Workspace Engine
+8. Cuối cùng mới implement Goal trên engine đó
